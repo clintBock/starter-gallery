@@ -1,33 +1,12 @@
 #Change Log
 
-Team membership:  AB (Captain) & CD (Mate)  
-Team conventions: Allman notation, markdown for changelog  
+Team membership:  Clinton Bock (Captain) & Connor Jang (Mate)  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
-## *Version x.x*
-
-Release Date: Jul 26, 2027
-
-## New Components
-
--   controllers
-
-    -   serbian (AB)
     
-## Updated Components
+## Changes (latest at bottom)
 
--   controllers
 
-    -   german (CD)
-    -   hindi (CD)
-
--   models
-
-    -   italian (AB)
-
--   views
-
-    -   slovenian (AB)
-    -   swedish
+09-21-2017 10:39 AM - Created Changelog
 
 
